@@ -12,6 +12,9 @@ Pada kali ini saya akan menjelaskan tentang instalasi vagrant di Ubuntu 16.04. V
 Pertama-tama update dahulu repositori pada VM milik anda.
 {% highlight bash %}apt-get update{% endhighlight %}
 
+Setelah meng-update repo, selanjutnya install virtualbox dan vagrant dengan command berikut:
 {% highlight bash %}apt-get install virtualbox vagrant{% endhighlight %}
+
+
 
 
