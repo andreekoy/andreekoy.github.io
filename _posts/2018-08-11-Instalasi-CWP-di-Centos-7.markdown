@@ -33,3 +33,8 @@ sh cwp-latest
 
 Setelah Instalasi selesai akan muncul informasi URL untuk mengakses Web Panel serta informasi password untuk login. Dan setelah instalasi selesai lanjutkan dengan melakukan reboot.
 
+![cwp Pic](../images/cwp.png)
+
+Dan berikut ini tampilan panel CWP.
+
+![panel Pic](../images/panel.png)
