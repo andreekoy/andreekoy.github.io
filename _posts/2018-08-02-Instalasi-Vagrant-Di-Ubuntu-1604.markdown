@@ -6,8 +6,9 @@ categories: Ubuntu Vagrant
 comments: true
 share: true
 ---
-Pada kali ini saya akan menjelaskan tentang instalasi vagrant di Ubuntu 16.04. Vagrant sendiri adalah....
+Pada kali ini saya akan menjelaskan tentang instalasi vagrant di Ubuntu 16.04. Vagrant sendiri adalah salah satu aplikasi yang dibuat oleh perusahaan bernama Hashicorp. Vagrant ini merupakah suatu tools yang membantu untuk membangun lingkungan development dengan mudah. Salah satu kelebihan dari vagrant adalah dapat membuat lingkungan development yang dibuat menjadi lebih portable, konsisten dan fleksibel.
 
+Langsung saja kita bahas langkah-langkah instalasi Vagrant di Ubuntu 16.04
 
 Pertama-tama update dahulu repositori pada VM milik anda.
 {% highlight bash %}apt-get update{% endhighlight %}
